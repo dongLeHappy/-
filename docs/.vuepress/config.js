@@ -6,11 +6,12 @@ module.exports = {
             { text: '处女作', link: '/blog/firstBlog.md' },
         ],
         sidebar: [
-            '/blog/home.md',
-            '/blog/firstBlog.md',
-            '/blog/myVueDemo.md',
-            '/blog/vue-vuex.md',
-            '/blog/theGit.md'
+            '/blog/home.md', // 首页
+            '/blog/firstBlog.md', // 第一篇博客
+            '/blog/myVueDemo.md', // vuedemo
+            '/blog/vue-vuex.md', // vuex
+            '/blog/theGit.md', // 学习git
+            '/blog/webpack.md', // 学习webpack
         ]
     }
 }
